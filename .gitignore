@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# KiCad backup/autosave
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*.kicad_prl
+*-backups/
+_autosave-*
+fp-info-cache
+
+# Python
+__pycache__/
+*.pyc
