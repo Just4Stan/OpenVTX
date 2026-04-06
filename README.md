@@ -1,4 +1,4 @@
-# OpenVTX
+# OpenVTX (WIP)
 
 Open-source 5.8GHz analog video transmitter with software-defined OSD, based on [OpenOSD-X](https://github.com/OpenOSD-X) firmware.
 
